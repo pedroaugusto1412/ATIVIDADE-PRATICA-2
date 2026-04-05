@@ -1,0 +1,43 @@
+
+#login{
+    background-color: rgb(248, 248, 248);
+    width: 230vh;
+    display: flex;
+    justify-content: center;
+    padding: 80px 50px 0px 0px;
+    
+}
+#login div{
+    background-color: rgba(0, 0, 0, 0.9);
+    padding: 10px 10px 10px 10px;
+    height: 210px;
+    color: white;
+    border-radius: 10px;
+}
+.caixas{
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+}
+.botao-login{
+    background-color: dodgerblue;
+    border: none;
+    padding: 15px;
+    width: 100%;
+    border-radius: 10px;
+}
+.botao-login:hover{
+    background-color: deepskyblue;
+}
+.cadastro{
+    background-color: rgba(0, 0, 0, 0.9);
+    padding: 10px 10px 10px 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    border-radius: 10px;
+   
+}
